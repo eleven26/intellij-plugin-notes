@@ -1,0 +1,3 @@
+[submodule "my-first-plugin"]
+	path = my-first-plugin
+	url = https://github.com/eleven26/my-first-plugin.git
