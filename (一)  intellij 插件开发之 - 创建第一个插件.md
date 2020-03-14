@@ -28,27 +28,27 @@
 
 1. 创建新项目，选择 "File -> New -> Project"
 
-[file-new-project-1](https://github.com/eleven26/intellij-plugin-notes/images/new-gradle-project-1.png)
+[file-new-project-1](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/new-gradle-project-1.png)
 
 
 2. 这一步填写一下 Name、GroupId 即可，点击 Finish
 
-[file-new-project-2](https://github.com/eleven26/intellij-plugin-notes/images/new-gradle-project-2.png)
+[file-new-project-2](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/new-gradle-project-2.png)
 
 
 3. 我们在点击了 Finish 之后，打开了这个项目，发现依赖自动就开始下载了
 
-[file-new-project-3](https://github.com/eleven26/intellij-plugin-notes/images/new-gradle-project-3.png)
+[file-new-project-3](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/new-gradle-project-3.png)
 
 这个过程如果没有代理会非常漫长，这里我使用了代理来下载。
 
 如果本地有 ss 客户端，那就可以在 IDE 中打开配置页面，mac 下面是顶部菜单栏的 "Intellij IDEA -> Preference"，在里面搜索 "proxy":
 
-[file-new-project-4](https://github.com/eleven26/intellij-plugin-notes/images/new-gradle-project-4.png)
+[file-new-project-4](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/new-gradle-project-4.png)
 
 这个时候再把 ss 客户端设置为全局模式，然后点击底部的旋转图标即可，然后慢慢等待就可以了（当然代理也不能太慢，否则可能要等几个小时）。
 
-[file-new-project-5](https://github.com/eleven26/intellij-plugin-notes/images/new-gradle-project-5.png)
+[file-new-project-5](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/new-gradle-project-5.png)
 
 
 ## Gradle 插件项目的目录结构
