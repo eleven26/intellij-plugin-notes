@@ -18,7 +18,7 @@ shift + shift，输入 "NewProjectAction"，记得把弹窗右上角那里 "Incl
 
 ![action-1](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-1.png)
 
-我们看到的确有一个类叫做 "NewProjectAction"，是 ideaIC 里面的一个类，
+我们看到的确有一个类叫做 "NewProjectAction"，是 ideaIC 里面的一个类。
 
 * 我们看到顶部有个 "Terminal" 的按钮，其实也是有对应的 Action 的，我们搜索一下发现的确有一个类叫做 "TerminalAction":
 
