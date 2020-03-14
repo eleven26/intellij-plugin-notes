@@ -7,11 +7,18 @@
 * [插件里面的 since-build 对应版本](https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html)
 
 
-## 常用插件功能开发
+## 插件开发系列文章
 
-* 添加菜单到菜单栏
+* [(一) intellij 插件开发之 - 创建第一个插件.md](https://github.com/eleven26/intellij-plugin-notes/blob/master/(%E4%B8%80)%20%20intellij%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B9%8B%20-%20%E5%88%9B%E5%BB%BA%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%8F%92%E4%BB%B6.md)
 
-* todo 添加菜单到右键菜单
+* [(二) intellij 插件开发之 - 添加菜单到菜单栏.md](https://github.com/eleven26/intellij-plugin-notes/blob/master/(%E4%BA%8C)%20%20intellij%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B9%8B%20-%20%E6%B7%BB%E5%8A%A0%E8%8F%9C%E5%8D%95%E5%88%B0%E8%8F%9C%E5%8D%95%E6%A0%8F.md)
+
+
+## TODO
+
+* ~~添加菜单到菜单栏~~
+
+* 添加菜单到右键菜单
 
 
 ## 内置图标使用
