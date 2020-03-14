@@ -10,21 +10,21 @@
 
 * 顶部菜单栏的 "File -> New -> Project"
 
-[action-0](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-0.png)
+![action-0](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-0.png)
 
 其实这个就对应着 IDE 中的一个 Action，我们可以按下两下 shift，查看有没有对应的类：
 
 shift + shift，输入 "NewProjectAction"，记得把弹窗右上角那里 "Include non-project items" 勾上，可以看到下面的内容
 
-[action-1](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-1.png)
+![action-1](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-1.png)
 
 我们看到的确有一个类叫做 "NewProjectAction"，是 ideaIC 里面的一个类，
 
 * 我们看到顶部有个 "Terminal" 的按钮，其实也是有对应的 Action 的，我们搜索一下发现的确有一个类叫做 "TerminalAction":
 
-[action-3](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-3.png)
+![action-3](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-3.png)
 
-[action-2](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-2.png)
+![action-2](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-2.png)
 
 
 ### Action 和菜单是什么关系
@@ -33,7 +33,7 @@ shift + shift，输入 "NewProjectAction"，记得把弹窗右上角那里 "Incl
 
 **每一个菜单实际上也是一个 Action，当我们点击菜单的时候，对应的 Action 里面的对应方法会被执行**
 
-[action-4](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-4.png)
+![action-4](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-4.png)
 
 > 在 IDE 中任何可以点击的按钮、菜单都对应着一个 Action。
 
@@ -116,15 +116,15 @@ public class HelloWorldAction extends AnAction {
 
 双击 "Gradle" 工具栏里面的 "runIde"，即可启动一个 IDE 来调试我们的插件:
 
-[action-7](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-7.png)
+![action-7](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-7.png)
 
 我们启动这个调试的 IDE 之后，可以在顶部菜单栏的 "Tools" 下面找到我们的 "Hello World" 子菜单:
 
-[action-5](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-5.png)
+![action-5](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-5.png)
 
 点击的时候，可以发现 IDE 的右下角有个弹窗:
 
-[action-6](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-6.png)
+![action-6](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-6.png)
 
 到这里，一个最基本的菜单已经添加到我们的 IDE 中了。
 
@@ -133,22 +133,22 @@ public class HelloWorldAction extends AnAction {
 
 我们写插件往往不是自己一个人使用，有时候可能需要构建一个分享给其他人，其实官网提供的 Gradle 中已经提供了对应的 task，我们可以在 Gradle 工具栏中看到 "build"，双击它即可构建一个可进行分发的插件压缩包了。
 
-[action-8](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-8.png)
+![action-8](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-8.png)
 
 构建之后，我们可以看到插件项目根目录下多了一个 build 目录，而里面的 `distributions` 文件夹就是保存可分发插件的地方。
 
-[action-9](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-9.png)
+![action-9](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-9.png)
 
 
 ## 如何在其他 IDE 中使用这个插件？
 
 我们打开 IDE 的设置页面，选择 "plugins"，点击右上角齿轮，再点击 "Install Plugin from Disk"，然后选择上面 build 出来的 zip 文件，最后重启 IDE 即可。
 
-[action-10](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-10.png)
+![action-10](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-10.png)
 
 如下，我们实现了在其他 IDE 中使用我们的插件:
 
-[action-11](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-11.png)
+![action-11](https://github.com/eleven26/intellij-plugin-notes/blob/master/images/action-11.png)
 
 
 ## 参考链接
