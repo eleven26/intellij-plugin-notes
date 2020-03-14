@@ -1,5 +1,10 @@
 # intellij-plugin-nodes
 
+## Why
+
+有时候一些操作重复来重复去开发体验极差，希望改善一下开发的体验。另外网上可以找到的资料非常少，唯有自己探索了。
+
+
 ## 常用链接
 
 * [官网文档](https://www.jetbrains.org/intellij/sdk/docs/intro/welcome.html)
@@ -16,9 +21,23 @@
 
 ## TODO
 
-* ~~添加菜单到菜单栏~~
+* ~~(一) intellij 插件开发之 - 创建第一个插件.md~~
 
-* 添加菜单到右键菜单
+* ~~(二) intellij 插件开发之 - 添加菜单到菜单栏.md~~
+
+* (三) intellij 插件开发之 - 添加菜单到右键.md（编辑器右键菜单、ProjectView 右键菜单）
+
+* (四) intellij 插件开发之 - plugin.xml 详解.md（plugin.xml）
+
+* (五) intellij 插件开发之 - 编辑器光标操作.md（Caret）
+
+* (六) intellij 插件开发之 - 编辑器文本操作.md（Vfs）
+
+* (七) intellij 插件开发之 - 常用组件.md（Project、Document、Editor）
+
+* (八) intellij 插件开发之 - PSI 入门.md
+
+* (八) intellij 插件开发之 - Gradle 入门.md
 
 
 ## 内置图标使用
