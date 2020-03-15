@@ -14,11 +14,11 @@
 
 ## 插件开发系列文章
 
-* [(一) intellij 插件开发之 - 创建第一个插件.md](https://github.com/eleven26/intellij-plugin-notes/blob/master/(%E4%B8%80)%20%20intellij%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B9%8B%20-%20%E5%88%9B%E5%BB%BA%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%8F%92%E4%BB%B6.md)
+* [(一) intellij 插件开发之 - 创建第一个插件.md](https://github.com/eleven26/intellij-plugin-notes/blob/master/(%E4%B8%80)%20intellij%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B9%8B%20-%20%E5%88%9B%E5%BB%BA%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%8F%92%E4%BB%B6.md)
 
-* [(二) intellij 插件开发之 - 添加菜单到菜单栏.md](https://github.com/eleven26/intellij-plugin-notes/blob/master/(%E4%BA%8C)%20%20intellij%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B9%8B%20-%20%E6%B7%BB%E5%8A%A0%E8%8F%9C%E5%8D%95%E5%88%B0%E8%8F%9C%E5%8D%95%E6%A0%8F.md)
+* [(二) intellij 插件开发之 - 添加菜单到菜单栏.md](https://github.com/eleven26/intellij-plugin-notes/blob/master/(%E4%BA%8C)%20intellij%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B9%8B%20-%20%E6%B7%BB%E5%8A%A0%E8%8F%9C%E5%8D%95%E5%88%B0%E8%8F%9C%E5%8D%95%E6%A0%8F.md)
 
-* [(三) intellij 插件开发之 - 添加菜单到右键菜单.md](https://github.com/eleven26/intellij-plugin-notes/blob/master/(%E4%B8%89)%20%20intellij%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B9%8B%20-%20%E6%B7%BB%E5%8A%A0%E8%8F%9C%E5%8D%95%E5%88%B0%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95.md)
+* [(三) intellij 插件开发之 - 添加菜单到右键菜单.md](https://github.com/eleven26/intellij-plugin-notes/blob/master/(%E4%B8%89)%20intellij%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B9%8B%20-%20%E6%B7%BB%E5%8A%A0%E8%8F%9C%E5%8D%95%E5%88%B0%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95.md)
 
 
 ## TODO
