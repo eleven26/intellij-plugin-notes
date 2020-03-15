@@ -18,6 +18,8 @@
 
 * [(二) intellij 插件开发之 - 添加菜单到菜单栏.md](https://github.com/eleven26/intellij-plugin-notes/blob/master/(%E4%BA%8C)%20%20intellij%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B9%8B%20-%20%E6%B7%BB%E5%8A%A0%E8%8F%9C%E5%8D%95%E5%88%B0%E8%8F%9C%E5%8D%95%E6%A0%8F.md)
 
+* [(三)  intellij 插件开发之 - 添加菜单到右键菜单.md](https://github.com/eleven26/intellij-plugin-notes/blob/master/(%E4%B8%89)%20%20intellij%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B9%8B%20-%20%E6%B7%BB%E5%8A%A0%E8%8F%9C%E5%8D%95%E5%88%B0%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95.md)
+
 
 ## TODO
 
@@ -25,7 +27,7 @@
 
 * ~~(二) intellij 插件开发之 - 添加菜单到菜单栏.md~~
 
-* (三) intellij 插件开发之 - 添加菜单到右键.md（编辑器右键菜单、ProjectView 右键菜单）
+* ~~(三) intellij 插件开发之 - 添加菜单到右键.md（编辑器右键菜单、ProjectView 右键菜单）~~
 
 * (四) intellij 插件开发之 - plugin.xml 详解.md（plugin.xml）
 
