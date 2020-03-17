@@ -29,7 +29,7 @@
 
 * ~~(三) intellij 插件开发之 - 添加菜单到右键.md（编辑器右键菜单、ProjectView 右键菜单）~~
 
-* (四) intellij 插件开发之 - plugin.xml 详解.md（plugin.xml）
+* (四) intellij 插件开发之 - plugin.xml 入门.md
 
 * (五) intellij 插件开发之 - 编辑器光标操作.md（Caret）
 
